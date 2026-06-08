@@ -1,19 +1,19 @@
 {
-  "version": "0.12.5.1",
+  "version": "0.13.1.1",
   "packages": {
     "x86_64-linux": {
-      "url": "https://github.com/imputnet/helium-linux/releases/download/0.12.5.1/helium-0.12.5.1-x86_64_linux.tar.xz",
-      "hash": "sha256-tfiy1MkxXq9vOjp57R3ykHjleG0Viz/C2ttwXbHnPwA=",
-      "signatureUrl": "https://github.com/imputnet/helium-linux/releases/download/0.12.5.1/helium-0.12.5.1-x86_64_linux.tar.xz.asc",
-      "signatureHash": "sha256-fuVuYvKyM5qcte1CF9/oV6vKz18aUtaW0+Se/zvmb8M=",
-      "archiveRoot": "helium-0.12.5.1-x86_64_linux"
+      "url": "https://github.com/imputnet/helium-linux/releases/download/0.13.1.1/helium-0.13.1.1-x86_64_linux.tar.xz",
+      "hash": "sha256-MXV5LVknmxhYPq5+W6O2QYz3bemw1nxLs4kI+pS3Mgs=",
+      "signatureUrl": "https://github.com/imputnet/helium-linux/releases/download/0.13.1.1/helium-0.13.1.1-x86_64_linux.tar.xz.asc",
+      "signatureHash": "sha256-eUSAlxF1VtcbYXkpjYCXIOhf8qvUOP4nmYlfREtZVzo=",
+      "archiveRoot": "helium-0.13.1.1-x86_64_linux"
     },
     "aarch64-linux": {
-      "url": "https://github.com/imputnet/helium-linux/releases/download/0.12.5.1/helium-0.12.5.1-arm64_linux.tar.xz",
-      "hash": "sha256-q6cCrvDh9eYQZwCLArKXZDpYkl0Zzi2g9gp9l+G+QIA=",
-      "signatureUrl": "https://github.com/imputnet/helium-linux/releases/download/0.12.5.1/helium-0.12.5.1-arm64_linux.tar.xz.asc",
-      "signatureHash": "sha256-3Jf/FrymA66JIKOZ4cecvWrGm/XZF/57nSV2Bd5OcW8=",
-      "archiveRoot": "helium-0.12.5.1-arm64_linux"
+      "url": "https://github.com/imputnet/helium-linux/releases/download/0.13.1.1/helium-0.13.1.1-arm64_linux.tar.xz",
+      "hash": "sha256-Sq7Iae93/t98uyLyDgRtEX+7n+Hc4MssZqg9n5bzNC8=",
+      "signatureUrl": "https://github.com/imputnet/helium-linux/releases/download/0.13.1.1/helium-0.13.1.1-arm64_linux.tar.xz.asc",
+      "signatureHash": "sha256-rK9M60k6GVMZlDsQXh2+EGb8fQElCsk7uvWujAVPotI=",
+      "archiveRoot": "helium-0.13.1.1-arm64_linux"
     }
   }
 }
